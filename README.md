@@ -1,2 +1,2 @@
 # Executive-Technology-Portfolio
-Portafolio LGO
+Portfolio LGO
